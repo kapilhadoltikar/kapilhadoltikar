@@ -1,6 +1,6 @@
 # 💫 About Me:
 Recent Engineering graduate with a strong foundation in frontend and backend technologies. and enthusiastic entry-level full stack developer with hands-on experience in building scalable applications.
-I'm currently working on banking application with Django and React.<br>Ask me about React, Django, Flask 
+<br>I'm currently working on banking application with Django and React.<br>Ask me about React, Django, Flask 
 
 
 ## 🌐 Socials:
