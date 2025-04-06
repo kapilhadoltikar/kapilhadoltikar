@@ -23,7 +23,7 @@ Recent Engineering graduate with a strong foundation in frontend and backend tec
 
 - 📫 How to reach me **kapilh.cdac@gmail.com**
 
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/kapilhadoltikar/kapilhadoltikar/blob/main/Kapil_Hadoltikar_Resume.pdf" target="blank">Resume</a>
 <br/>
 
 
