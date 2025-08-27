@@ -19,7 +19,7 @@ Motivated Java Developer with a strong foundation in object-oriented programming
 
 - 📫 How to reach me **kapilh.cdac@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/kapilhadoltikar/kapilhadoltikar/blob/main/Kapil_Hadoltikar_Resume.pdf" target="blank">Resume</a>
+- <a href="https://github.com/kapilhadoltikar/kapilhadoltikar/blob/main/Kapil_Hadoltikar_Resume.pdf" target="blank"></a>
 <br/>
 
 
