@@ -7,6 +7,7 @@ Kapil Hadoltikar </a></h1>
 Motivated Java Developer with a strong foundation in object-oriented programming, data structures, and software development, with hands-on experience in building scalable applications.
 <br>
 
+- GitHub: https://github.com/kapilhadoltikar
 - Email: kapilh.cdac@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kapil-hadoltikar
 - <a href="https://github.com/kapilhadoltikar/kapilhadoltikar/blob/main/Kapil_Hadoltikar_Resume.pdf" target="blank">Resume</a>
