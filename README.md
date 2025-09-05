@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil-hadoltikar&label=Profile%20views&color=0e75b6&style=flat" alt="kapil-hadoltikar" /> </p>
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/kapilhadoltikar" target="blank">
 Kapil Hadoltikar </a></h1>
