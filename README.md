@@ -9,6 +9,18 @@ with focus on clean design, performance, and user experience.**
 
 ---
 
+## 🚀 Completed Projects:
+
+- **Windows application for changing dark and light mode in one click.**
+- **Technologies used: JDK 25, JavaFX 21**
+  
+  **<a href="https://github.com/kapilhadoltikar/One_click_dark_and_light_mode_for_windows_11" target="blank"> One click dark and light mode app for windows 11. </a></h1>**
+
+  I would appreciate your kind feedback. **kapilh.cdac@gmail.com**
+  
+
+---
+
 ## 🖥️🔧 Technologies & Tools I Work With:
  
 ---
