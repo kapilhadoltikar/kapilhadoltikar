@@ -3,7 +3,7 @@
 # Hi 👋 , I'm **<a href="https://github.com/kapilhadoltikar" target="blank"> Kapil Hadoltikar</a>.</h1>**   
 
 
-**I'm a $\color{gold}{\textsf{**Java Developer**}}$ with a PG Diploma in Advanced Computing and Bachelors in Mechanical Engineering with strong foundation in object-oriented programming, data structures, software development. also hands-on experience in Java, Spring, Spring Boot, Hibernate, Microservices, etc.
+**I'm a $\color{gold}{\textsf{**Java Developer**}}$ with a PG Diploma in Advanced Computing and Bachelors in Mechanical Engineering with strong foundation in object-oriented programming, data structures, software development. also hands-on experience in Java, Spring, Spring Boot, Hibernate, Microservices, JavaFX, etc.
 with focus on clean design, performance, and user experience.**
 <br>
 
@@ -14,7 +14,7 @@ with focus on clean design, performance, and user experience.**
 - **Windows application for changing dark and light mode in one click.**
 - **Technologies used: JDK 25, JavaFX 21**
   
-  **<a href="https://github.com/kapilhadoltikar/One_click_dark_and_light_mode_for_windows_11" target="blank"> One click dark and light mode app for windows 11. </a></h1>**
+  **<a href="https://github.com/kapilhadoltikar/One_click_dark_and_light_mode_for_windows_11/tree/master/out/artifacts/theme2_jar" target="blank"> One click dark and light mode app for windows 11. </a></h1>**
 
   I would appreciate your kind feedback. **kapilh.cdac@gmail.com**
   
