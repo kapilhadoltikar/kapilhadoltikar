@@ -14,7 +14,7 @@ with focus on clean design, performance, and user experience.**
 - **Windows application for changing Accent of the system (dark and light mode) easily.**
 - **Technologies used: JDK 25, JavaFX 21**
   
-  **<a href="https://github.com/kapilhadoltikar/Accent#" target="blank"> One click dark and light mode app for windows 11. </a></h1>**
+  **<a href="https://github.com/kapilhadoltikar/Accent#" target="blank"> Accent Windows application </a></h1>**
 
   I would appreciate your kind feedback. **kapilh.cdac@gmail.com**
   
