@@ -12,7 +12,7 @@ with focus on clean design, performance, and user experience.**
 ## 🚀 Completed Projects:
 
 - **Windows application for changing Accent of the system (dark and light mode) easily.**
-- **Technologies used: JDK 25, JavaFX 21**
+- **Technologies used: JDK 21, JavaFX 21**
   
   **<a href="https://github.com/kapilhadoltikar/Accent#" target="blank"> Accent Windows application </a></h1>**
 
