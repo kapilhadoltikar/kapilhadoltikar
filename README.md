@@ -16,6 +16,6 @@ with focus on clean design, performance, and user experience.**
   
   **Email: kapilh.cdac@gmail.com**  
   
-  **<a href="https://kapilhadoltikar.github.io/KAPIL%20HADOLTIKAR%20RESUME%20(Java%20Developer).pdf" target="blank"> Download Resume </a>**
+  **<a href="https://kapilhadoltikar.github.io/Kapil_Hadoltikar_Java_Spring_Boot_Engineer.pdf" target="blank"> Download Resume </a>**
 <br/>
 ---
