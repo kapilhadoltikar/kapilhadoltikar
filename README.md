@@ -2,20 +2,26 @@
 
 # Hi 👋 , I'm **<a href="https://github.com/kapilhadoltikar" target="blank"> Kapil Hadoltikar</a>.</h1>**   
 
+**🚀 Backend Software Engineer | Java & Distributed Systems | Cloud-Native | Immediate Joiner**
 
-**Associate Software Engineer / Java Developer with a PG Diploma in Advanced Computing and Bachelors in Mechanical Engineering with strong foundation in object-oriented programming, data structures, software development. also hands-on experience in Java 25, Spring Boot 4, Microservices, Spring Security, JavaFX, etc.
-with focus on clean design, performance, and user experience.**
-<br>
+I am a Java 21 enthusiast focused on building production-grade, cloud-native architectures. My work centers on bridging the gap between high-level application logic and low-level system performance.
 
+Core Focus:
 
-## 📧 Let's Connect:
+⚡ Native Performance: Leveraging GraalVM Native Image for sub-second startup and optimized cloud density.
 
-  **Portfolio: https://kapilhadoltikar.github.io/**  
+🧵 Modern Concurrency: Utilizing Java 21 Virtual Threads (Loom) to scale I/O-heavy microservices.
 
-  **LinkedIn: https://www.linkedin.com/in/kapil-hadoltikar**  
-  
-  **Email: kapilh.cdac@gmail.com**  
-  
-  **<a href="https://kapilhadoltikar.github.io/Kapil_Hadoltikar_Java_Spring_Boot_Engineer.pdf" target="blank"> Download Resume </a>**
+🏗️ Resilient Systems: Implementing Event Sourcing (Kafka) and high-availability patterns (Read/Write splitting).
+
+🛡️ Security: Designing PCI-DSS compliant vaulting and authenticated encryption (AES-256-GCM).
+
+Current Focus: Perfecting the "Dual-Runtime" strategy to reduce cloud infrastructure costs while maintaining peak JIT throughput.
+
+Immediate Joiner <br/> <br/>
+ **<a href="https://www.linkedin.com/in/kapil-hadoltikar" target="blank"> LinkedIn </a>** &emsp;
+  **<a href="kapilh.cdac@gmail.com" target="blank"> Email </a>** &emsp;
+   **<a href="https://kapilhadoltikar.github.io/" target="blank"> Portfolio </a>** &emsp;
+    **<a href="https://kapilhadoltikar.github.io/Kapil_Hadoltikar_Java_Backend_Engineer.pdf" target="blank"> Resume </a>**
 <br/>
 ---
